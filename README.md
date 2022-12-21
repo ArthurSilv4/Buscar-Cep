@@ -7,13 +7,8 @@ Buscar cep foi desenvolvido durante uma aula do 3ª semestre do curso de **Desen
 
 O app tem como objetivo ajudar na localizaçao de cidade, bairro e rua ultilizando apenas o cep.
 
-## Layout tela de inicio
-![Inicial 1](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/Tela%20inicial.png) ![Inicial 2](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/Configs.png)
-
-## Layout jogo
-![Jogo 1](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/jogo.png)
-
-![Jogo 2](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/jogo2.png)
+## Layout 
+![Inicial 1](https://github.com/ArthurSilv4/Buscar-Cep/blob/main/imgs/buscacep1.png) ![Inicial 2](https://github.com/ArthurSilv4/Buscar-Cep/blob/main/imgs/buscacep2.png)
 
 # Tecnologias utilizadas
 - Framework Ionic
