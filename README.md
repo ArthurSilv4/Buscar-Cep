@@ -16,20 +16,26 @@ O app tem como objetivo ajudar na localizaçao de cidade, bairro e rua ultilizan
 ![Jogo 2](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/jogo2.png)
 
 # Tecnologias utilizadas
-- C#
-- Engine unity
-- Visual Studio
+- Framework Ionic
+- Html
+- Scss
+- Typescript
 
 # Como executar o projeto
 
-Pré-requisitos: Unity hub, unity 2020.3.9f1
+Pré-requisitos: Node.js, npm 
 
 ```
 # Clonar repositório
 git clone https://github.com/ArthurSilv4/Top-Down
 
-# Entrar no unity hub
-Selecionar a opção open e escolher o arquivo code
+# Instalar o Ionic
+npm install  -g ionic
+
+#Abrir o projeto em seu editor de codigo
+
+#Localhost
+ionic serve
 ```
 # Autor
 
