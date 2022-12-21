@@ -28,6 +28,7 @@ git clone https://github.com/ArthurSilv4/Top-Down
 npm install  -g ionic
 
 #Abrir o projeto em seu editor de codigo
+cd [endereço]
 
 #Localhost
 ionic serve
